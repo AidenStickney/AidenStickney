@@ -22,6 +22,4 @@ I'm currently a junior Computer Engineering student at Texas A&M University, pas
 - ✉️ [stickneyaiden@gmail.com](mailto:stickneyaiden@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aidenstickney)
 
-Feel free to reach out if you're interested in collaborating or if you just want to chat about tech!
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aidenstickney.aidenstickney)
